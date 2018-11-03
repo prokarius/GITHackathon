@@ -1,0 +1,477 @@
+Chapter B: BigTech or the ANTification 
+of Finance 
+
+Finance is being re-imagined and re-created in emerging markets (EM) by FinTech 
+and BigTech players with the proliferation of mobile platforms, a growing middle 
+class, and favorable government policies. New entrants have made a mark in the 
+consumer payments and finance space in Asia, especially in China and increasingly 
+in India. In this chapter, we take a closer look at how BigTech, rather than FinTech, 
+poses a competitive threat and a collaborative opportunity for incumbent banks. 
+
+“10x” improvements are more likely in new markets that can “leapfrog” established 
+technology – e.g., go mobile first/only, skipping the landline phase in telecom. In 
+China, e-commerce giant Alibaba has amassed the world's largest money market 
+fund and issued nearly $100 billion of loans in five years, whereas in India, mobile 
+wallets provider Paytm has nearly 280 million registered users with an average 
+transaction value of INR500 ($7.50) per day. In developed markets, B2C FinTech 
+plays have not reached the scale of their Asian peers with a few exceptions, most 
+notably PayPal. 
+
+Traditional banking is being challenged not by small FinTech startups but rather by 
+established tech giants (particularly in emerging markets) leveraging their strong 
+customer bases, vast user data pools, agile technology platforms, and deep funding 
+pockets. BigTech giants are eroding the boundaries between industries as they 
+seek to be all things to all people. While payments and transaction services are 
+often the first area of disruption by BigTech, the end objective is creation of an 
+integrated financial ecosystem as part of a holistic customer engagement strategy. 
+
+But do clients want to do banking with BigTech? According to a survey by Deloitte in 
+“Millennials and Wealth Management,” nearly 57% of U.S. millennials cited that they 
+would change their bank for a better tech platform, while 65% would consider 
+leaving a firm if digital channels are not integrated (Capgemini World Wealth 
+Report). But banks are still trusted, even if not loved. U.S. retail banking clients still 
+trust their primary bank more than BigTech on money matters. But the survey data 
+would probably look different for U.S. millennials and for EM-based clients. 
+
+Figure 27. Importance of Digital Leadership in Choice of Bank 
+
+65% 
+
+57% 
+
+
+of Millennials would of clients would consider 
+change their bank for a leaving a firm if digital 
+better tech platform channels are not integrated 
+
+Source: Deloitte, Capgemini 
+
+Figure 28. Which Company Would You Trust Most with Your Money? 
+
+More Primary bank 
+
+1.7 
+
+Trust 
+
+Banks in general 
+
+3.3 
+
+
+PayPal 
+
+4.0 
+
+Amazon 
+
+
+4.3 
+
+Apple 
+
+5.1 
+
+Google 
+
+5.4 
+
+Microsoft 
+
+5.5 
+
+Less Facebook 
+
+7.4 
+
+Trust 
+
+Snapchat 
+
+8.3 
+
+Note: Rankings on a scale of 1 to 9, with 1 indicating highest trust. 
+Source: Bain Research Now Customer Loyalty in Retail Banking Survey, 2017 (link) 
+(Used with permission from Bain & Company. Note Bain & Company, Inc. is not 
+affiliated with Citi Equity Research, and the information, advice or recommendations 
+contained in this report have not been reviewed or endorsed by Bain & Company.) 
+
+© 2018 Citigroup 
+
+
+March 2018 Citi GPS: Global Perspectives & Solutions Citi GPS: Global Perspectives & Solutions 
+
+39 
+Chinese BigTech and Financial Services 
+
+The presence of Chinese Internet giants Baidu, Alibaba, Tencent, and JD.com 
+(BATJ) in finance is striking if we consider that (1) China’s largest e-commerce 
+platform also runs China’s largest mutual fund (Yu’e Bao by Ant Financial), and (2) 
+the Chinese social messaging app facilitates large volumes of money transfers / 
+payments (WeChat by Tencent). 
+
+BATJ have made rapid progress in Internet finance, backed by agile tech platforms 
+and a high degree of service integration (leveraging their ecosystem to offer 
+scenario-based services). Notably, each one of them differed in their initial roots – 
+Alibaba and JD.com started off with an e-commerce platform, Tencent expanded its 
+social media messaging platform, while Baidu built on its online advertising 
+business model as a search engine. 
+
+Over the years, these Chinese BigTech firms have established a comprehensive 
+multi-licensed financial ecosystem, including a payments interface, wealth 
+management products, consumer finance, and insurance products, among others. 
+Figure 29 compares their primary financial services offered. 
+
+Figure 29. BATJ — Internet Finance Product Offerings 
+
+Baidu Alibaba Tencent JD.com 
+Internet payment 
+
+Internet wealth 
+management 
+
+Internet insurance 
+Online lending 
+
+Consumer financing 
+
+Crowdfunding 
+
+Digital-only Bank 
+Credit scoring 
+
+Source: Citi Research 
+
+Baidu Wallet 
+(2014) 
+Alipay (2004) 
+
+Baidu Finance Yuebao, Taobao(2013) Iicai (2013) 
+Bai Fa (2013) Zhaocaibao,
+Yu'ebao (2014) 
+
+Ant Fortune (2015) 
+Bai An Insurance Zhongan (2013) 
+(2015) 
+
+Baixin Bank (2015) MYbank (2015) 
+WeBank (2015) 
+
+— Sesame Credit Tencent Xinyong 
+(2015) (2015) 
+Tenpay (2005) JD Payment (2012) 
+Weixin pay (2014) JD Wallet (2012) 
+WeChat / QQ
+
+Wallet (2014) 
+
+Licaitong (2014) 
+
+Zhongan (2013) 
+
+Tenpay microloan 
+(2013) 
+QQ loan (2015) 
+
+Weilidai (2015) 
+
+QQ Gongyi (2014) 
+
+JD XiaoJinKu 
+
+(2014) 
+XiaoBai Finance 
+(2014) 
+
+JD Insurance 
+(2014) 
+JingBaoBei (2013) 
+JingXiaoDai (2013) 
+
+JD BaiTiao (2014) 
+
+JD Crowdfunding 
+(2014) 
+
+— 
+Xiaobai Xinyong 
+(2015) 
+
+Baidu loan (2013) 
+
+Umoney (2014) 
+
+Baidu Baizhong 
+(2014) 
+
+E Dairong with 
+
+CCB (2007) 
+Ali micro loan 
+(2010) 
+
+Jie Bei (2015) 
+
+Tmall instalment 
+(2014) 
+Ant check later 
+(2014) 
+iZhongchou (2013,
+renamed from 
+Taoxinyuan in 
+2014) 
+
+We believe BATJ enjoys considerable competitive advantages that help position 
+them favorably when competing with incumbent banks, including (1) a large and 
+captive user base; (2) low online acquisition cost; (3) big data customer insights 
+(helps product pricing and risk management); and (4) Internet banking licenses. 
+
+Additionally, Baidu, Alibaba, and Tencent (BAT) have also invested in new online 
+banks that do not need physical branches and have fewer overheads. It is expected 
+that the technological advantage of BAT provides them with a unique advantage to 
+leverage technologies such as big data and cloud computing, which can help tailor 
+user experiences and improve credit assessment procedures. 
+
+© 2018 Citigroup 
+
+
+40 40 
+Citi GPS: Global Perspectives & Solutions March 2018 
+
+Figure 30. Comparison of Online-only Banks Setup by Internet Giants 
+
+Baixin Bank MYbank WeBank 
+A unique tie-up of a 
+search engine giant with 
+traditional bank. 
+Positioned as the bank 
+"not for the rich, but for thelittle guys". The pure 
+online bank offers smaller 
+loans than regular banksby leveraging its cloud-
+based model, and does
+Shareholding Alibaba (30%) 
+Fosun (25%) 
+Wanxiang (18%) 
+Jinrunzichan (16%) 
+Others (11%) 
+Launch date Nov. 2015 Jan. 2015 
+
+CITIC Bank (70%) 
+Baidu (30%) 
+Overview 
+
+not accept applications of 
+
+over RMB5mn. 
+
+Loan offerings Small personal loans Focused on offering 3 
+kinds of loans which 
+indirectly tie in withAlibaba's core business: 
+
+(i) for people in rural areas 
+(ii) for Internet start-ups 
+(iii) for Tmall and Taobao 
+sellers 
+Source: Citi Research 
+
+Tencent (30%) 
+Baiyeyuan (20%) 
+Others (30%) 
+Liye (20%) 
+
+Jun. 2015 
+
+Sells financial products for 
+other institutions and 
+grants small loans to 
+consumers 
+
+Small personal loans and 
+auto loans 
+
+[A] Ant Financial Builds an Empire of Services 
+Ant Financial is one of the largest FinTechs in the world. Its strategic vision is based 
+on (1) leveraging the power of the Internet and big data; (2) empowering financial 
+institutions to create an ecosystem; (3) serving both SME and individual customers; 
+and (4) providing inclusive financial services. 
+
+Ant Financial’ s competitive advantages include a large user base; an incubator for 
+vital, innovative financial products; and a world-class financial cloud technology 
+platform. In addition, it is a pioneer in the DT Era, employing data to drive 
+innovation. 
+
+Figure 31. Ant Financial Ecosystem 
+
+DINING GAMING 
+ONLINE 
+SHOPPING 
+TRANSPORTATION 
+MOBILE 
+TOP-UP 
+CREDIT RED PACKET/ 
+MONEY TRANSFER 
+DAILY HOUSEHOLD 
+SERVICES 
+RETAIL 
+STORES 
+MEDICAL 
+SERVICES 
+CAMPUS 
+FINANCIAL 
+SERVICES 
+PUBLIC 
+WELFARE 
+Ant Financial Has Penetrated Into More 
+Consumption Scenarios in Daily Life 
+Transactions from Alibaba China retail marketplaces in 2015 
+take up less and less TPV of Ant Financial 
+Source: Citi Research 
+
+© 2018 Citigroup 
+
+
+March 2018 Citi GPS: Global Perspectives & Solutions Citi GPS: Global Perspectives & Solutions 
+
+41 
+• 
+Driving Platform Effects with comprehensive products 
+– Sesame Credit – launched January 2015, in 11 months to >100m cumulative 
+users 
+– Yu’e Bao – launched June 2013, in 20 months to >100m cumulative users; 
+– Insurance – launched November 2010, in 31 months to >100m cumulative 
+users 
+• 
+Yu’e Bao: convenient cash management service – This money market fund 
+provides convenient cash management service for users and provides a 
+foundation for other wealth management services. Yu’e Bao is the largest in the 
+world, with assets of ~RMB1.5 trillion (~$230bn) and a cumulative user base of 
+about 330 million, which translates to an average c.RMB4,500 ($710) per user. 
+Yu’e Bao’s real advantage is its strong technology edge, which enables high-
+frequency usage owing to great user experience and ever-expanding user 
+scenarios. The platform also benefits from Big Data, which helps in liquidity risk 
+management, such as analysis of future redemption ratios. 
+• 
+Zhao Cai Bao: P2P lending platform – Started in 2014, the platform lets small 
+businesses and individual borrowers directly raise loans from investors provided 
+that a financial institution has guaranteed the loan and made sure money will be 
+paid back (each loan is divided across a maximum of 200 investors). Average 
+loan sizes are ~RMB70,000 ($11k), with durations of 3-12 months and 
+annualized interest rates of 3-5%. 
+• 
+Hua Bei (Ant Check later) – Launched in December 2014, Hua Bei is an online 
+consumer loan product offered to Alipay users for purchase of goods or services 
+approved by Ant Financial (usually at Taobao or Tmall). The maximum lending 
+amount is up to Rmb30k ($4,750), with an interest-free period of 50 days, and 
+average loan size is ~RMB3,000 ($475) per borrower. Huabei has achieved good 
+synergy with Ali’s e-commerce platforms by effectively promoting one’s 
+consumption. As of the first half of 2017, the outstanding loan balance of Hua Bei 
+reached Rmb160 billion ($25bn). Meanwhile, the big data derived from the 
+transactions via Hua Bei also allows Ant Financial to provide more customized 
+financial services to its customers. 
+• 
+Jie Bei – Jie Bei is an online cash loan product launched by Ant Financial in 
+2015. The loan applications are made on the Alipay platform, with loans being 
+directly transferred to the borrower’s Alipay account. The credit line ranges from 
+Rmb1k to Rmb50k (~$150-$8k), with typical loan duration of up to 12 months, 
+depending on the borrowers’ Sesame Credit Score, and average loan size is 
+c.RMB700 ($110) per borrower. As of mid-2017, the outstanding loan balance of 
+Jie Bei had reached ~Rmb100 billion ($16bn). However, Ant Financial suspended 
+the Jie Bei service for certain users in early 2018 as a result of regulatory 
+tightening on cash loan products and imposed a leverage cap for online micro 
+credit companies (MCCs) by including all loans financed via off-balance sheet 
+ABS (leverage of Ant Financial’s MCC subsidiaries – i.e., the lending entities for 
+Huabei and Jiabei – reached ~70x as of 1H17, compared to the regulatory cap of 
+2.3x). 
+• 
+MYbank – Launched in January 2015, MYbank offers three kinds of loans that tie 
+in with Alibaba’s core businesses: (1) for people in rural areas; (2) for Internet 
+start-ups, and (3) for Tmall/Taobao sellers. MYbank strictly operates small/midsized 
+ticket loans and does not accept any loan application over RMB5 million. 
+The bank offers no physical branches and operates entirely on a cloud 
+© 2018 Citigroup 
+
+
+42 42 
+Citi GPS: Global Perspectives & Solutions March 2018 
+
+computing platform using Big Data to compute loan amounts and terms, thus 
+saving significantly on operational costs. Loan application processes are quick 
+(usually lasting just three minutes), following which, if approved, the loan 
+amounts are wired to the individual’s bank account. As of June 2017, the bank 
+funded loans of RMB115 billion in value, with an average loan size of 
+~RMB17,000 (~$2,700). 
+
+Figure 32. Plans to Evolve into a Global FinTech Company 
+
+PAYMENTS 
+ALIPAY 
+520mn 
+Annual Active Users(1) 
+PayPal 2 
+203mn active users 
+
+ANT FORTUNE 
+330mn 17% 
+Cumulative YoY AUM per 
+Users (1) active user 
+Charles Schwab 3 
+10.2mn active users 
+WEALTH MANAGEMENT 
+ANT CHECK LATER 
+ANT MICRO LOANS 
+100mn 73% 
+Annual use Ant 
+Active Credit Pay 6+ 
+Users (1) times in 1 yr. 
+China Merchants Banks 3 
+46mn cards in circulations 
+FINANCING 
+392mn 43% 
+Annual YoY premium 
+Active Users (1) growth 
+per user 
+Ping An 3 
+131mn active users 
+INSURANCE 
+CREDIT REFERENCE 
+SESAME CREDIT 
+257mn 95% 
+Activated Users (1) YoY growth 
+FICO Score U.S. Credit Accounts (3) 
+~250mn 
+
+(1) During the 12 months ended March 31, 2017, or by the end of March 31, 2017 
+(2) During the 12 months ended March 31, 2017; Source: Form 10-Q 
+(3) As of fiscal year ended December 31, 2016 
+Source: Annual Reports, IR websites, Company Reports, Citi Research 
+Ant Financial’s growth strategy can briefly be summarized as follows: (1) capture 
+urbanization trends, serve rural areas, drive financial inclusion; (2) collaborate with 
+local partners through technology transfer, make financial services more accessible; 
+
+(3) generate dynamic data from the business, in turn feeding the business 
+ecosystem. The aim is to serve 2 billion customers globally in ten years. 
+[B] Tencent's WeChat Is China's App for Everything 
+Weixin (WeChat) Pay – Tencent owns and operates Tenpay, which allows users to 
+transfer money through WeChat, a social messaging app. With 980 million monthly 
+active user accounts as of September 2017 (+16% YoY), Tencent’s Weixin mobile 
+messaging app has become a powerful multi-function platform, including for 
+integrating third-party services, including payments and financial services. Weixin 
+Pay and QQ Wallet are consumer-facing mobile payment solutions that expand use 
+cases for social (red envelop gifting and money transfers), Online to Offline (O2O) 
+services, and online finance. Based on a Tencent survey, about 70% of respondents 
+spend more than RMB100 ($15) per month in payments and transfers, with the 
+most popular function being digital red envelope money (85% of respondents), 
+followed by payments (58%) and money transfer to contacts (57%). WeChat credit 
+card (payment processed via scanning QR code) was used by 20% of respondents, 
+and 14% used Weixin Pay to pay off credit cards. 
+
+WeBank – In 2015, Tencent launched WeBank, China’s first online-only bank, based in 
+Shenzhen. WeBank is essentially a “connector” of individuals and small enterprises to 
+banks and financial institutions. Key services include offering investment products, such 
+as money market funds, and granting loans to small and medium-sized companies, 
+farmers, and individuals. In May 2015, WeBank launched its first loan product, Weilidai, 
+providing microcredit to users amounts up to RMB200k ($30k) without the need for 
+guarantee or collateral, at a daily interest rate of 0.05% (approximately 20% annually). 
+WeBank promotes its services on WeChat and QQ, its dominant social media apps. As 
+of June 2017, WeBank extended total loans of RMB200 billion ($30bn) in value with an 
+average loan size of RMB8,000 ($1,250). 
