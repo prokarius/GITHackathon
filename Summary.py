@@ -2,8 +2,8 @@ import re
 
 ####### MAGIC NUMBERS ########
 numChars = 500
-lengthWeight = 0.45
-freqWeights = 0.9
+lengthWeight = 0.45837485736
+freqWeights = 0.90918723647
 fileName = "file4.txt"
 
 stopwords = ['myself', 'our', 'ours', 'ourselves', 'you', 'your', 'yours', 'yourself', 'yourselves', 'him', 'his', 'himself', 'she', 'her', 'hers', 'herself', 'its', 'itself', 'they', 'them', 'their', 'theirs', 'themselves', 'what', 'which', 'who', 'whom', 'this', 'that', 'these', 'those', 'are', 'was', 'were', 'been', 'being', 'have', 'has', 'had', 'having', 'does', 'did', 'doing', 'the', 'and', 'but', 'because', 'until', 'while', 'for', 'with', 'about', 'against', 'between', 'into', 'through', 'during', 'before', 'after', 'above', 'below', 'from', 'down', 'out', 'off', 'over', 'under', 'again', 'further', 'then', 'once', 'here', 'there', 'when', 'where', 'why', 'how', 'all', 'any', 'both', 'each', 'few', 'more', 'most', 'other', 'some', 'such', 'nor', 'not', 'only', 'own', 'same', 'than', 'too', 'very', 'can', 'will', 'just', 'don', 'should', 'now', "citigroup", "2018", "2017", "citi", "gps", "group", "figure"]
@@ -11,7 +11,7 @@ stopwords = ['myself', 'our', 'ours', 'ourselves', 'you', 'your', 'yours', 'your
 alnumpattern = re.compile("[A-Z0-9a-z., '!?$%:-]")
 moneypattern = re.compile("\$[0-9]+\.?[0-9]*|[0-9]+\.?[0-9]*[%]")
 yearpattern = re.compile("[0-9]{4}")
-splitpattern = '[.|:|?|!]'
+splitpattern = '[.:?!]'
 
 def freq(lst):
     dictionary = {}
@@ -120,7 +120,7 @@ def process(text, lenOutput):
         index += 1
 
     out.sort()
-    return(".".join([x[1] for x in out])[1:] + ".")
+    text = ".".join([x[1] for x in out])[1:] + "."
 
 def main():
     file = open (fileName, "r", encoding="ISO-8859-1")
