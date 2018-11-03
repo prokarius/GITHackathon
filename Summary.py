@@ -150,9 +150,13 @@ def process(text, lenOutput):
         index += 1
 
     out.sort()
-    text = ". ".join([x[1].strip().capitalize() for x in out]) + "."
+    text = ". ".join([capitalizeFirstWord(x[1].strip()) for x in out]) + "."
 
     return text
+
+
+def capitalizeFirstWord(text):
+    return text[0].upper() + text[1:]
 
 
 def removeMultipleSentences(text):
