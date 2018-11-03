@@ -1,0 +1,738 @@
+9. Real Estate Market Disruptors 
+FinTech Innovators 
+Are Changing the Way 
+We 
+Trade 
+Houses 
+
+
+Buying and selling 
+a home 
+is 
+one of the 
+more stressful 
+life events 
+many will go 
+through. If you have ever done it, you 
+may have dealt with highly irrational 
+counterparties, the stress of always keeping a home show-ready, or having 
+had to 
+sweat out transaction 
+details like title 
+search 
+issues or drawn-out loan 
+underwriting. 
+And all of this happened with brokers who earn 
+~5% 
+commission from the seller 
+and take zero 
+principal 
+risk. 
+
+
+A growing group of intrepid 
+FinTech firms 
+in Europe and the 
+U.S. 
+are deploying 
+models 
+to displace this 
+traditional real estate brokerage 
+model. Many of these new 
+businesses are executing strategies 
+that 
+aim to speed the transaction timeline 
+for 
+buyers and 
+sellers while lowering overall transaction 
+costs (financial 
+and/or 
+emotional). 
+
+
+Some 
+of the many 
+different business models currently in 
+play are 
+listed 
+below 
+but 
+for simplicity, our primarily focus 
+will be 
+on 
+the first strategy: 
+
+
+• 
+Instant Offers (“I-Buyer” Model): 
+Several companies, both public 
+and 
+private, 
+are now deploying 
+strategies that provide offers on homes to willing 
+sellers. Offer 
+prices factor in 
+a discount that looks 
+similar to a broker commission, but closing 
+times can be as few as weeks 
+for the seller versus months. The company takes 
+ownership 
+of the property, potentially makes 
+repairs, and 
+sells 
+the home 
+through 
+various 
+potential channels. 
+• 
+Customer-led Vertical Integration: 
+This is a 
+strategy 
+in which 
+a 
+company 
+identifies 
+potential buyers and 
+works 
+with them 
+to purchase a home. This is very 
+similar to a broker model, but in this case the company makes a 
+cash offer on the 
+chosen 
+home and carries the 
+property while the ultimate owner arranges 
+financing. The value-add is that cash offers may be accepted 
+and potential 
+buyers 
+can 
+avoid a bidding war. 
+• 
+Fixed Broker Fees: 
+This strategy simply charges a fixed fee as opposed 
+to a 
+percentage commission. Companies involved in this 
+strategy leverage the 
+democratization of data 
+and 
+employ technology platforms to 
+help 
+drive 
+efficiencies 
+in their broker network. 
+Framing the Scope of the Issue 
+
+
+Housing is 15% 
+of GDP 
+in 
+the 
+U.S. and the 
+largest asset class on 
+household 
+balance 
+sheets, with 
+$1.5 
+trillion 
+worth of residential real estate sold annually. That’s 
+10x the size of 
+Treasury bond 
+issuance being 
+transacted via 
+direct negotiation, and 
+it happens between buyers and sellers who are 5x–20x levered in most cases. 
+
+
+Because 
+it is such a 
+concentrated storage of wealth and such a large source of 
+household debt, 
+liquidity and 
+transaction 
+speed are meaningful to 
+the 
+average 
+home 
+seller. In May of this year, the 
+peak of the 
+selling season, the median 
+amount of time 
+homes had been 
+listed 
+for sale was 55 days. 
+The carrying 
+cost over this amount of 
+time 
+could 
+be as 
+much as 1% 
+of the 
+home’s value. Not to 
+mention the 
+economic 
+impact this delay has due to 
+impaired household 
+mobility. It 
+would be like needing a 
+new car, but having to wait and sell your current car on craigslist before you could 
+buy a new one. 
+There’s no dealership 
+trade-in option for moving, and the cost of 
+this 
+delay to a 
+home seller is about as 
+much as…the down payment on a 
+car. 
+
+
+© 2018 
+Citigroup 
+
+
+
+August 2018 Citi GPS: Global Perspectives & Solutions Citi GPS: Global Perspectives & Solutions 
+
+61
+Post the bursting of the housing bubble in 
+the U.S., many innovations have emerged to 
+disrupt the cost of brokering the sale of a 
+home 
+
+Why Is This Happening Now? 
+
+The financial crisis 
+and 
+burst of the housing ‘bubble’ 
+in the U.S. 
+are 
+well 
+documented. Financial 
+institutions failed, housing credit availability dried up, and 
+government intervention 
+occurred on 
+many levels to 
+stabilize and regulate the 
+industry. Home 
+prices 
+fell ~26% 
+nationally during 
+this period, and 
+some metro 
+areas 
+like Phoenix and Las Vegas are still ~20% 
+below their previous peak 
+more than ten 
+years later. 
+
+
+During the post-crash period, many innovations 
+and 
+developments took 
+place 
+that 
+led the industry to 
+make attempts to finally disrupt the 
+cost of brokering the sale of a 
+home. We generally attribute this 
+disruption to a few key drivers: 
+
+
+• 
+Democratization of data: 
+Websites 
+and 
+data 
+providers 
+started publicly posting 
+residential real 
+estate 
+listings 
+as 
+early as 
+2006. This democratization of data has 
+grown consistently over time and moved into 
+mobile. What was once 
+only 
+available to real estate agents 
+on the Multiple 
+Listing 
+Service 
+(MLS) is now 
+available to virtually everyone 
+via apps 
+on their smart phones. Most of this 
+democratization, however, has been 
+driven 
+by broker advertising revenue. 
+• 
+Proof of concept in mortgage originations: 
+It’s no surprise the U.S. 
+financial 
+crisis yielded regulation in 
+housing finance. Lenders are now required to start 
+verifying, documenting, and reporting borrower credit characteristics to 
+a much 
+higher standard, 
+and non-compliance 
+bears 
+significant consequences. These 
+heightened standards drove 
+a 
+desperately-needed technology update, and 
+FinTech lenders have proven their ability to leverage technology and 
+boost 
+efficiency. In a recent staff paper from the New 
+York Federal 
+Reserve, analysts 
+examined loan-level origination data and found that FinTech 
+lenders are able to 
+close a mortgage transaction 
+20 percent faster than 
+their non-tech counterparts. 
+Borrower defaults were significantly lower as well (38% lower for Federal 
+HousingAdministration (FHA) 
+purchase loans 
+and 
+29% 
+for refinance 
+originations). 
+• 
+A developing and unprecedented wave of housing demand: 
+Several general 
+housing 
+market themes are 
+helping to 
+provide 
+FinTech firms runway to disrupt 
+the status quo. Since the fall of home prices from the peak, the pace 
+of home 
+sales has 
+steadily risen and the inventory 
+of homes for sale 
+has fallen (Figure 
+37). Some of this 
+light supply 
+is because 
+single-family home 
+building still 
+lags in 
+recovery (Figure 
+38). This national 
+trend of rising demand and falling supply has 
+been 
+supportive 
+of home prices, 
+which 
+have appreciated at ~5.6% per year 
+on 
+average for the past four years. Stable, slowly rising home 
+prices 
+benefit these 
+strategies because there is reasonable confidence asset prices won’t fall. And 
+home ownership demand is likely to rise even more as the 
+‘millennial’ 
+generation 
+enters the next stage of their lives, albeit later than previous 
+generations (Figure 
+39). And it’s important to remember that this wave of demand will be 
+increasingly 
+tech-friendly and will likely expect all transactions to happen 
+quickly and 
+efficiently. 
+© 2018 
+Citigroup 
+
+
+
+6262
+Citi GPS: Global Perspectives & Solutions August 2018 
+
+Figure 37. U.S. Home Sales Continue to Rise, Figure 38. Construction Lagged in Recovery, Figure 39. While Ownership Rates Are Below 
+Depleting Inventory for Sale Especially in Single Family Homes Peak, Aging Millennials Will Likely Enter Soon 
+
+0.00.51.01.52.02.53.03.54.04.50123456785/1/19995/1/20015/1/20035/1/20055/1/20075/1/20095/1/20115/1/20135/1/20155/1/2017Inventory on Market (Mil)
+U.S. Existing Home Sales (Mil, SAAR)
+Existing Home SalesInventory (Right Axis)
+010020030040050060002004006008001,0001,2001,4001,6001,8002,0006/1/19996/1/20016/1/20036/1/20056/1/20076/1/20096/1/20116/1/20136/1/20156/1/2017Multifamily Starts ('000s of units, SAAR)
+Sgl Family Starts ('000s of units, SAAR)
+Single FamilyMultifamily (right axis)
+0.02.04.06.08.010.012.014.016.018.00.010.020.030.040.050.060.070.080.090.0Under 35years *
+35 to 44years45 to 54years55 to 64years65 yearsand overShare of US Population (%)
+Home Ownership Rate (%)20062018U.S. Population (right axis)
+Source: National Association of Realtors, Citi Research Source: Census Bureau, Citi Research Source: Census Bureau, Citi Research (* the under 35yr 
+old bucket % of population shown is for 23-34yr olds only) 
+
+Figure 40. Approx. Commissions on U.S. 
+Existing Home Sales 
+
+ - 
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+901999200120032005200720092011201320152017Potential Commission ($ bil)
+Source: National Assoc. of Realtors, Citi Research 
+
+
+So How Does It Work? 
+
+
+In the 
+traditional 
+home sales 
+model 
+using an 
+agent, the 
+seller hires an 
+agent who is 
+responsible for marketing the 
+home and attracting buyers. 
+This 
+process usually 
+takes 2–3 months, during which time it is commonplace for the agent to conduct 
+walk-throughs with prospective buyers.After an 
+offer is received, the 
+seller often 
+has to wait for the borrower to 
+finalize 
+his or her 
+financing to 
+begin the closing 
+process. At the end of this process, the seller pays 3%–6% of the 
+sales 
+proceeds as 
+commission to the real estate 
+agents. To 
+get a sense of how much potential 
+revenue exists in the 
+space, existing home 
+sale counts and 
+median 
+sale prices 
+along with an assumed 5% of total 
+market value amounted 
+to ~$68 
+billion in 2017 
+potential commission revenue 
+(Figure 
+40). 
+
+
+In contrast, the iBuyer model 
+is a transition from the agent-based advisory system 
+to a dealer-based 
+system, where compensation is derived from a bid-ask 
+spread 
+rather than 
+a commission. 
+Specifically, the iBuyer firm will assess the value of the 
+property and offer a bid to 
+purchase the home 
+from the 
+seller at a 
+discount. 
+The 
+iBuyer firm then relists the property and 
+attempts to resell 
+for full value, capturing 
+the difference between the 
+discounted 
+acquisition price and the full value resale 
+price as revenue. 
+
+The value proposition to home sellers in 
+the 
+iBuyer model is the ability to move on 
+a 
+short and 
+definite timeline 
+that eliminates 
+the 
+stressful waiting game and 
+inconvenience of showings and open houses. Additionally, by using advanced 
+analytic techniques for valuation and the prime 
+collateral 
+status of vacant, 
+move-in 
+ready homes for financing, iBuyer firms believe it is possible for the 
+discount to be 
+comparable to the traditional commission amount. In 
+other words, a seller could sell 
+his 
+or her 
+home in a 
+matter of a couple weeks with the same 
+expected net proceeds 
+as the traditional, multiple-month process. 
+
+
+For buyers, the vacant state 
+of the home allows for flexible move-in dates. 
+Additionally, many iBuyer firms offer trial periods and warranties on core 
+infrastructure 
+that offer peace 
+of mind. In the longer term, we expect the 
+iBuyer 
+firms to 
+also 
+build out mortgage origination businesses. Because the iBuyer firm will 
+have already done a 
+title search and 
+an appraisal during the 
+acquisition process, 
+this 
+could 
+potentially be removed from the lending process due to redundancy 
+— 
+thereby lowering the cost and time to close. 
+
+© 2018 
+Citigroup 
+
+
+
+August 2018 Citi GPS: Global Perspectives & Solutions Citi GPS: Global Perspectives & Solutions 
+
+63
+Figure 41. All-In Transaction Costs Could Be 
+Lower for Selling to an I-buyer 
+
+0%
+1%
+2%
+3%
+4%
+5%
+6%
+7%
+8%
+9%
+I-BuyerTraditionalOwnershipOverlap /
+Carry (1%)
+Avg SellerConcession(2%)
+BrokerCommission(5%)
+Avg ServiceCharge(6.5%)
+Source: Select I-buyer websites, Citi Research 
+
+
+In short, an iBuyer as 
+central 
+liquidity provider could 
+better accommodate the needs 
+of buyers and sellers independently than they are able 
+to accommodate each 
+other, 
+all at a 
+competitive cost. This should be 
+surprising 
+to those familiar with 
+the financial 
+markets, as ‘all-to-all’ 
+markets 
+are reserved for the most liquid and 
+fungible assets, 
+while illiquid and harder to value financial assets are the purview of dealers. 
+Because residential real estate is retail, highly capital-intensive, and reliant on 
+nuanced 
+hyperlocal economic 
+data, the 
+market developed as an exception to this 
+rule. But given the advancements in data availability and 
+analysis as well as the 
+trends in 
+financial 
+markets, we believe a reversion could be taking place. 
+
+
+Other Follow-on Opportunities 
+
+
+But the 
+shift in business 
+model does not and should not end 
+with just buying 
+and 
+selling properties. 
+There are differing 
+strategies that take 
+advantage of the 
+holding 
+period and unlock value by making nominal improvements/updates and repairs. 
+Borrowers 
+could 
+find 
+this attractive because the 
+broker will likely have 
+access to 
+much cheaper financing 
+to 
+conduct these projects, and it can 
+all be rolled into the 
+borrower’s 
+mortgage versus a 
+higher-cost construction loan. Other strategies might 
+involve offering additional 
+services to 
+a home 
+buyer such as 
+preferred vendor 
+services like snow removal, landscaping, and HVAC maintenance (something akin 
+to an 
+online 
+marketplace that shows you what other customers purchased). We also 
+envision a 
+joint venture strategy that works with home 
+builders to 
+help 
+potential 
+sellers 
+effectively ‘trade in’ 
+their old 
+home for new construction. Finally, these 
+companies 
+might also align with the 
+growing industry of institutional owners of rental 
+properties, providing these real 
+estate 
+investment trusts (REITs) a supply of homes. 
+
+What Are Barriers/Challenges? 
+
+
+While these 
+strategies 
+are 
+certainly poised to change the way 
+we trade homes 
+in 
+the U.S. 
+and abroad, there are several challenges and barriers to 
+entry. First, 
+a 
+significant 
+amount of capital is 
+required to purchase, carry, repair, and 
+sell homes. 
+Second, this 
+strategy also requires a reasonable amount of liquidity in 
+a given 
+housing 
+market to confidently 
+establish reliable 
+home-price 
+levels. And liquidity isn’t 
+just by geography; liquidity could 
+also 
+be 
+different by price 
+point. 
+These 
+strategies 
+may not work on, for example, the highest and 
+lowest price points in a given area 
+since liquidity is likely lower. There 
+may be 
+cases where the 
+traditional broker model 
+could co-exist 
+alongside these liquidity providers, operating 
+at the price tails. 
+
+Additionally, the 
+shifting age demographics of the U.S. might become 
+a risk. 
+Home 
+prices 
+may experience weakness 
+as 
+baby boomers 
+move to 
+either downsize their 
+living 
+situation by purchasing 
+smaller homes or 
+switching 
+to renting. If 
+millennials 
+are either unwilling or unable to purchase these 
+homes, there could 
+be a 
+scenario 
+where home 
+prices 
+correct. Finally, regional expertise is still 
+required to inspect and 
+verify property pricing to protect against losses. 
+
+Traditional Business 
+Models to Change 
+
+
+The stage is set. FinTech firms are 
+positioning to upend the industry, 
+and 
+their 
+innovations will likely produce 
+winners and losers. Existing 
+brokerage 
+models 
+that 
+only collect advisory/commission fees will likely suffer as 
+buyers and sellers 
+are 
+attracted to faster transaction times and potentially lower bid/ask 
+spreads. Several 
+of these 
+legacy brokers have already announced small initiatives to adapt. Other 
+companies 
+that rely on broker advertising revenue 
+could 
+also suffer. 
+We 
+are already 
+seeing home builders, real 
+estate data providers, rental 
+operators, mortgage 
+lenders, and 
+others 
+starting to 
+discuss the industry development in their public 
+filings 
+in a positive tone, and 
+we 
+expect existing 
+FinTech players to take significant 
+market share 
+in the 
+coming years as they shorten the timeline for buyers and 
+sellers. 
+
+
+© 2018 
+Citigroup 
+
+
+
+6464
+Citi GPS: Global Perspectives & Solutions August 2018 
+
+Ross Barrows 
+
+Head of Australian Small Cap Research 
+Team 
+
+Ultimately, voice-activated controls free an 
+individual from being 
+‘constantly 
+tethered’ to 
+a specific device. 
+
+It is expected that in 2019, 20% of all user 
+interactions with the smartphone will be via 
+Smart Assistants 
+
+Artificial Intelligence is the next paradigm 
+shift in the technology sector 

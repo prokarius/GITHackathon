@@ -1,0 +1,1112 @@
+4. Big Data & Healthcare 
+Electronification Begets the ‘So What’ Question 
+
+The electronic health record 
+initiative and increasing consumer buy-in on wearables 
+has turned healthcare into a 
+data problem. 
+
+In 2013, at the onset of Meaningful Use, approximately 153 
+exabytes of healthcare 
+data were produced. Looking forward to 
+2020, more than 
+2,310 
+exabytes of 
+healthcare data are projected 
+to be produced, creating a 
+broad playing field 
+for 
+opportunities in 
+these robust data sets. 
+
+
+At the 
+same time, rising 
+costs in healthcare (~18% of GDP), an aging 
+population, 
+and the shortage of clinicians 
+all 
+create a 
+need to 
+monetize this 
+data 
+and 
+bend the 
+cost curve. 
+
+
+We 
+view opportunities in big data, artificial intelligence, 
+and 
+machine learning as the 
+natural progression of healthcare’s newly formed data 
+stores. 
+McKinsey estimates 
+these innovations 
+could reduce healthcare 
+spend by $300–$450 
+billion. 
+We 
+explore 
+the evolution of this trend, existing/potential future applications, barriers to 
+adoption, 
+and the winners/losers below. 
+
+The Evolution of Data in Healthcare 
+
+
+Although Electronic Health Records (EHRs) existed prior to 
+2009, the 
+majority of 
+EHR sector growth was spurred by government intervention, with an approximately 
+60 point uptick 
+in 
+penetration rates 
+from the HITECH (Health 
+Information 
+Technology for Economic and 
+Clinical Health) Act’s Meaningful Use program. 
+The 
+HITECHAct created financial incentives for provider adoption of EHRs, with the 
+hope that electronifying healthcare 
+data would help bend the ever-growing cost 
+curve for healthcare 
+spend in the United 
+States. In effect, ‘you can’t manage what 
+you can’t measure’ 
+— 
+so the first step from 
+the 
+government was a mandated 
+measurement rollout. 
+
+
+With EHR adoption 
+now nearly universal (96% of hospitals and 87% 
+of physicians 
+reported usage of a certified EHR in 2015, as 
+shown in 
+Figure 
+17 
+and 
+Figure 
+18), 
+we believe it is 
+time to 
+manage costs 
+by driving actionable insights from 
+the 
+information 
+captured. 
+This 
+desire is two pronged: Beyond the government objective 
+of managing 
+healthcare 
+costs, clinicians are also 
+looking to 
+justify the value of these 
+newly-electronified systems given high install/ownership 
+cost. 
+
+© 2018 
+Citigroup 
+
+
+
+3131
+August 2018 Citi GPS: Global Perspectives & Solutions 
+
+Figure 17. Hospital EHR Adoption Rates Figure 18. Physician EHR Adoption Rates 
+
+9%12%
+16%
+28%
+44%
+59%
+76%
+84%
+72%
+85%
+94%97%96%
+20082009201020112012201320142015Basic EHRCertified EHR
+21%24%
+29%
+35%
+42%
+48%51%
+57%
+72%
+78%
+83%
+87%
+11%12%
+17%
+22%
+28%
+34%
+40%
+48%51%
+54%
+74%
+78%
+200420062008201020122014Any EHRBasic EHRCertified EHR
+Source: The Office of the National Coordinator for HIT Source: The Office of the National Coordinator for HIT 
+
+Big data solutions are the next logical step 
+to utilize the vast data pools 
+
+Early data applications include analytics and 
+population health as well as applications 
+around patient and supply chain cost 
+
+With these data stores now created, we believe 
+big 
+data solutions are the next 
+logical step as a way to utilize 
+these vast data 
+pools, similar to what we’ve seen 
+across 
+other enterprise verticals. From 
+a payer/provider standpoint, big data 
+solutions also create 
+a monetization opportunity in predictive analytics, improved 
+diagnoses, 
+and 
+cost reduction. 
+
+
+Early Data Applications in Analytics 
+
+
+We 
+are currently in the first wave of healthcare 
+data utilization, with the 
+healthcare 
+information technology (IT) 
+players cross-selling value-added solutions (often driven 
+by their data 
+stores) into their client bases. On the 
+data-driven side, these solutions 
+tend toward analytics and population health. 
+
+Population health, or pop health, solutions entail quality/cost 
+monitoring and 
+management tools and all that goes with it, 
+including 
+data cleanup, care 
+coordination, patient communication/engagement, 
+and 
+patient education. Pop 
+health solutions can also include rudimentary predictive analytics tools, such as the 
+evolution of a patient along the risk curve, but these tools 
+tend to be early days 
+compared 
+with 
+enterprise-facing big-data solutions. 
+
+
+Specialized analytics applications, particularly around patient and 
+supply chain cost, 
+have been another key use 
+of the new healthcare 
+data stores. Unlike the 
+predictive 
+enterprise big-data analytics 
+solutions today, these applications tend to be 
+more 
+backward-looking 
+to help 
+healthcare providers 
+monitor and 
+manage trends. 
+
+
+© 2018 
+Citigroup 
+
+
+
+3232
+Citi GPS: Global Perspectives & Solutions August 2018 
+
+Defining: Big Data, AI, ML 
+
+Big Data: Big data is a term that describes a 
+large volume of data — 
+both structured and 
+unstructured — 
+that traditional data vendors 
+were unable to process. Today, big data 
+refers to the use of predictive analytics to 
+extract value from data. 
+
+Artificial Intelligence: AI is the concept of 
+machines being able to carry out tasks in a 
+way that we would consider ‘smart’ 
+
+
+Machine Learning: ML is a current 
+application of AI based around the idea that 
+we should be able to give machines access 
+to data and let them learn for themselves 
+
+The first wave of clinical support applications 
+will help doctors make more robust data-
+driven decisions in patient treatment 
+
+A big data solution for interpreting a large 
+store of x-rays can also function as a search 
+engine for the diagnosis 
+
+Machine-learning apps can leverage data 
+across silos to increase the identification of 
+disease risk 
+
+Looking Forward: Big Data, Artificial Intelligence 
+and 
+Machine Learning 
+
+
+Data Are 
+Core to Healthcare; Big 
+Data Are 
+an Accelerator 
+
+
+At their 
+core, medical discoveries are often 
+made by (1) observing associations, 
+(2) 
+creating 
+hypotheses from these associations, 
+and (3) hypothesis testing through 
+clinical trials and real-world applications. 
+
+
+We 
+do not view big-data applications as a 
+fundamental change to healthcare, but 
+rather, an 
+accelerator to this 
+process. Given the vast stores of electronic 
+data that 
+have been created, this 
+process 
+can 
+theoretically be fast-tracked through 
+back-
+testing 
+large data sets. Opportunities 
+from 
+this process 
+acceleration include 
+more 
+robust disease 
+detection tools, predictive 
+diagnosis capabilities, 
+and decision 
+support tools. 
+
+
+Near Term Opportunity: Clinical 
+Decision Support 
+
+
+While we view predictive diagnosis as the Holy Grail solution 
+for big data in 
+healthcare, we expect this to be a longer-term opportunity given its layers of 
+complexity. In the near 
+to medium 
+term, we see greater viability in decision support 
+tools and, in certain applications, early disease 
+detection. 
+
+Clinical 
+decision 
+support tools 
+entail 
+any 
+solution that provides clinicians with 
+intelligently filtered patient-specific data at the appropriate 
+time in the point of care 
+to enhance decision-making 
+in the 
+clinical workflow. Ultimately, the first wave of 
+clinical decision 
+support applications will transform 
+patient data from a pull to a push 
+function 
+at the point of care, helping doctors 
+make more-robust data-driven 
+decisions 
+in 
+patient treatment. 
+
+
+Current Use Cases 
+
+
+While we believe we are 
+still 
+in the 
+early inning of widespread big-data 
+applications 
+within healthcare, some 
+solutions 
+are already in use today. We 
+document a few of 
+these use cases below. 
+
+
+Radiology/Medical Imaging 
+
+
+Certain 
+functions 
+in healthcare, like radiologists, are considered 
+‘good’ 
+once they 
+have a certain level of experience 
+seeing 
+cases. However, a 
+human can never see 
+as many cases as an electronic database, making this an ideal application for big 
+data/AI. Given 
+a 
+large enough 
+store 
+of electronified x-rays, the interpretation of an 
+x-ray becomes 
+a search problem, with a 
+big-data 
+solution functioning as a 
+search 
+engine for the 
+diagnosis. 
+
+Predictive Risk from Retinal Imaging 
+
+
+The retina 
+offers 
+a snapshot of a patient’s vascular system, but the 
+data 
+are 
+often 
+under-utilized as 
+they are 
+siloed within ophthalmology practice EHRs. Recent 
+machine-learning applications 
+have 
+leveraged this information to predict the risk 
+of 
+heart disease, with early trials 
+showing a 
+higher accuracy rating 
+than 
+the trial’s 
+clinician 
+evaluations. Although 
+this 
+solution has yet to be used in 
+a clinical setting, 
+we view this as a 
+near-term 
+opportunity that will create 
+a quicker, easier, and 
+lower-
+friction (no blood test required) solution for evaluating a patient’s cardiovascular 
+risk. 
+
+
+© 2018 
+Citigroup 
+
+
+
+August 2018 Citi GPS: Global Perspectives & Solutions Citi GPS: Global Perspectives & Solutions 
+
+33
+Cost reduction within the payments integrity 
+and cost processing verticals is helped by 
+machine learning and natural language 
+processing 
+
+Predictive analytics models can highlight 
+issues such as transportation barriers that 
+could lead to missed appointments 
+
+Data siloing and usability issues within the 
+healthcare sector as well as a slower shift to 
+the cloud are potential barriers to quick 
+adoption 
+
+Claims Processing 
+
+
+Early applications 
+of machine learning and natural language 
+processing 
+are 
+currently being 
+used to reduce cost within the payments 
+integrity and 
+claims 
+processing vertical. 
+Traditional claims processing 
+is 
+a labor-intensive solution, 
+entailing a 
+clinician reviewing 
+a complex claims document that often encompasses 
+dozens 
+of pages. With the use 
+of robotic process 
+automation 
+(RPA) and natural 
+language 
+processing 
+(NLP), payers are able to 
+highlight the 
+areas of significance 
+within the 
+claims document 
+and 
+increase the findings rate for errors without 
+increasing 
+headcount. 
+
+
+Care Management 
+Support 
+
+
+Barriers 
+in 
+healthcare 
+can extend beyond the core condition 
+and treatment, such 
+as 
+access to 
+care, transportation, and readmissions risk. 
+
+Transportation 
+is 
+one 
+of the largest barriers to care: low-income, elderly, 
+and 
+disabled patients 
+miss ~24 
+million appointments annually due to insufficient access 
+to transportation. Further, no-show appointments 
+due 
+to transportation barriers 
+alone represent ~$40 
+billion 
+in avoidable downstream costs 
+and ~$4 
+billion 
+in lost 
+revenue for doctors. 
+
+
+Today, predictive analytics 
+models can highlight patients at a higher risk 
+of 
+encountering 
+transportation barriers 
+by utilizing 
+a patient’s socioeconomic 
+data. For 
+example, socioeconomic data 
+might show that patients 
+in a certain zip code 
+are 
+unlikely to have a car, alerting 
+the care team 
+to 
+make arrangements for follow-up 
+appointment transportation following a discharge, 
+thus 
+lowering 
+downstream 
+costs. 
+
+
+Reducing readmissions is another focus of care 
+management support teams, with 
+predictive 
+models aiding 
+in the allocation 
+of people, process, 
+and technology 
+resources. Beyond allocation, these predictive analytics 
+can 
+also assist a 
+care team 
+in time 
+management, such 
+as 
+the frequency and intensity of follow-ups 
+based on a 
+patient’s projected degree 
+of risk. 
+
+
+Barriers to Adoption 
+Looking at the 
+Enterprise, It’s a Long Road Ahead 
+
+
+Healthcare 
+IT has historically 
+mirrored the enterprise 
+IT sector, albeit on 
+a multi-year 
+lag. Because 
+of this, we look to the 
+evolution 
+of big data within the enterprise 
+sector 
+to frame our outlook for big-data adoption 
+in healthcare. 
+
+
+The rise 
+of enterprise 
+big data 
+has 
+gained 
+momentum 
+in recent years 
+given the 
+elasticity of the 
+cloud 
+and the 
+dramatic reduction of computing and storage costs 
+paired with significant gains in 
+processing 
+power. However, this opportunity in itself 
+is still in 
+the 
+very early innings, with a significant focus on data cleanup and 
+usability. This suggests 
+a long 
+road ahead for big 
+data to truly penetrate 
+the 
+healthcare sector given similar data 
+siloing/usability issues within the healthcare 
+sector as well as a 
+slower shift to the cloud. 
+
+
+Additionally, healthcare IT faces several roadblocks 
+that are 
+unique to 
+the 
+space, 
+given the competitive dynamics between the holders (and 
+often times, vendors) of 
+healthcare data. While 
+in the 
+near term, 
+one of the biggest opportunities in 
+enterprise big data is the consolidation/preparation 
+of data for consumption by 
+artificial intelligence and machine learning, this may get pushed off by healthcare IT 
+vendors that are 
+sensitive around releasing their data, which they view as key to 
+their value. 
+
+
+© 2018 
+Citigroup 
+
+
+
+3434
+Citi GPS: Global Perspectives & Solutions August 2018 
+
+Biggest roadblocks for widespread use of 
+big data include lack of data standardization, 
+siloing, lack of accessibility, the need for a 
+clinical data warehouse, and privacy/security 
+concerns 
+
+The Evolution of Data Models 
+
+1970s: The relational model (rows/columns) 
+for data systems was introduced 
+
+1980s: Data warehousing emerges 
+
+1990s: Databases move off the mainframe 
+into client / server models 
+
+2000s: Rapid growth in data volume pushes 
+traditional data vendors to the limit, creating 
+the need for big-data technology and non-
+relational databases 
+
+Aggregation of data siloed across multiple 
+verticals is a barrier 
+
+Data Presents the Biggest Challenge 
+
+
+As Eric Schmidt, former Executive Chairman 
+of Google, 
+noted in 
+his 2018 HIMSS 
+(Healthcare 
+Information 
+and Management Systems Society 
+Conference) conference 
+speech this past March, several steps are required 
+in order for providers and 
+healthcare 
+IT vendors to make use 
+of their newly electronified data. To pave a path 
+to improved 
+healthcare 
+cost/outcomes, vendors need 
+to (1) 
+move healthcare data 
+stores to the 
+cloud, (2) de-silo 
+the data to create robust data 
+sets, and 
+(3) ultimately 
+apply machine-learning models to 
+improve predictive analytics and diagnoses. 
+
+
+Echoing Schmidt’s keynote, we believe the biggest roadblocks facing widespread 
+use 
+of big data for 
+artificial intelligent/machine learning 
+applications are (1) lack of 
+data 
+standardization, 
+(2) the 
+current siloing of medical data, 
+(3) lack 
+of accessibility, 
+
+(4) need for a 
+‘clinical 
+data warehouse,’ 
+and (5) privacy and security concerns. 
+Data Issue 1: Cleanup 
+
+
+The lack of standardization across 
+healthcare 
+data presents the largest initial 
+challenge to adopting big-data solutions. 
+The vast amount of data generated and 
+collected by a multitude 
+of agents in healthcare today come 
+in many different forms, 
+both 
+structured and unstructured 
+— 
+from insurance claims to physician notes within 
+the medical record, images from patient scans, conversations about health in social 
+media, and information from wearables 
+and 
+other monitoring 
+devices. 
+
+
+For the most part, we believe 
+healthcare data 
+are 
+compiled in SQL-based relational 
+databases 
+because 
+these 
+are 
+well suited for discretely codified billing and 
+clinical 
+transactions data. However, this format presents limitations in both the volume and 
+the 
+velocity of data processing, while rapid growth in unstructured health data 
+could 
+create the need for hybrid (relational and NoSQL) databases. 
+
+
+Further, the data-collecting 
+community is equally heterogeneous, making the 
+extraction and integration 
+of the data 
+a real 
+challenge. Providers, payers, 
+employers, disease-management companies, wellness facilities 
+and 
+programs, 
+personalized-genetic-testing 
+companies, social 
+media, and patients themselves all 
+collect data. Even 
+standardizing for end 
+market and form, the data 
+standards 
+presented in Meaningful Use 
+were more open to interpretation than a 
+standardized 
+protocol, creating a 
+lack of standardization even across EHR systems. Integration of 
+data will require collaboration 
+and leadership from 
+both 
+the 
+public and private 
+sectors. 
+
+
+Data Issue 2: 
+Siloing 
+
+
+Medical data 
+are 
+spread 
+across many sources governed 
+by different states, 
+hospitals, and 
+administrative departments and information 
+silos exist across both 
+private and public 
+sectors. Even within organizations themselves, multiple 
+sources 
+of data 
+— 
+such as clinical, financial, and operational data 
+— 
+are kept separated. 
+The issue is further compounded by each data 
+system’s unique key identifiers, 
+validation rules, and format. With medical data siloed in a 
+multitude of verticals, the 
+result is difficulty in data 
+aggregation when attempting to 
+create a 
+complete data 
+set 
+to analyze a patient or a population. The integration of these 
+data 
+sources would 
+require developing a 
+new infrastructure where 
+all 
+data providers collaborate with 
+each other. 
+
+
+© 2018 
+Citigroup 
+
+
+
+August 2018 Citi GPS: Global Perspectives & Solutions Citi GPS: Global Perspectives & Solutions 
+
+35
+Data sharing and accessibility is limited 
+
+FHIR creates a standard for different data 
+elements to build APIs for use on datasets 
+from different systems 
+
+Finding a place to warehouse the huge 
+amount of data in healthcare is a challenge 
+
+Safeguarding data is key and heightens the 
+cost of data vs. other industries 
+
+Data Issue 3: 
+Accessibility 
+
+
+Stemming from the siloing of medical data, the ability to create full data 
+sets for one 
+patient or a population to work with is limited 
+by the 
+lack of accessibility across 
+different source of data.According 
+to an athenahealth 
+survey, while 79% of doctors 
+believe that having all available patient data in 
+one 
+place 
+is 
+critical to their jobs, only 
+14% 
+could access EMR information across different departments, patient care 
+centers, etc., even within the same 
+hospital. While recent regulation looks to 
+improve 
+upon data sharing, our channel checks 
+have shown vendor hesitation and 
+proactive friction in data 
+sharing. 
+
+
+In order to 
+increase 
+interoperability among hospitals, physicians, and 
+other relevant 
+parties, the industry is slowly shifting to a new technology known as FHIR (Faster 
+Healthcare 
+Interoperability Resources). FHIR creates 
+standards for different data 
+elements so that developers 
+can build 
+application programming interfaces (APIs) 
+that can 
+be used to access datasets from different systems. 
+
+
+Data Issue 4: Warehousing 
+
+
+Assuming the data get standardized 
+and 
+become de-siloed and accessible for use, 
+the challenge standing in the 
+way is the need for a 
+clinical data warehouse to host 
+the 
+vast amount of data (projected 
+data size 
+2,310 exabytes 
+by 2020). Only once 
+this 
+data 
+are 
+curated 
+into usable data sets can they 
+then 
+be used for sophisticated 
+analysis with a richAPI. 
+The data warehouse would require two tiers of data, with 
+the first tier being primary data stores 
+sourced 
+from EHRs, supplemented by a 
+second tier comprising 
+unstructured data 
+collected from everywhere else. 
+
+
+Data Issue 5: 
+Privacy/Security 
+
+
+Given the enormity of total population 
+medical data both 
+in 
+value and volume, large 
+data 
+stores are at a high risk of tampering and theft. 
+This is particularly vital as a 
+leak of identified health data is irreversible, unlike the leaking of a 
+more 
+dynamic 
+data asset such as a 
+consumer’s credit card information. 
+
+
+This security risk necessitates 
+significant investments to 
+safeguard the 
+data, 
+creating 
+a heightened level of cost compared 
+with 
+other industries. Privacy 
+concerns have 
+also led to slower momentum 
+in 
+data 
+storage 
+evolution, with locally 
+hosted systems 
+still prevalent 
+within healthcare 
+due to perceived cloud risk. 
+
+
+© 2018 
+Citigroup 
+
+
+
+3636
+Citi GPS: Global Perspectives & Solutions August 2018 
+
+Winners and Losers 
+
+
+Figure 19. Winners and Losers in Big Data 
+
+Big Data 
+VendorsLarge 
+Technology 
+CompaniesBig Data 
+VendorsEarly 
+Movers in 
+HCITHealthcare 
+Data OwnersScale EHR 
+PlayersCloud 
+Computing 
+EntrantsManual 
+ProcessersRadiologistsClaims 
+Processing 
+AnalystsPositively ImpactedNegatively Impacted
+Big data providers should benefit from 
+selling solutions to healthcare providers and 
+existing healthcare IT vendors 
+
+Existing EHR players will also benefit as 
+their data stores are difficult to replicate 
+
+Source: Citi Research 
+
+Winners: 
+Big 
+Data Vendors, Healthcare Data Owners 
+
+
+We 
+segment the winners of big data in 
+healthcare 
+into two core groupings: the 
+providers of the big 
+data 
+solutions, and 
+the 
+players that own the healthcare data 
+(shown in 
+Figure 
+19). 
+
+
+On the big-data provider side, winners 
+will include the established technology 
+players, the 
+big 
+data vendors, and the existing healthcare ITplayers 
+that take a 
+forward-looking 
+approach to 
+big-data, machine-learning, 
+and 
+artificial intelligence 
+solutions development. 
+These 
+vendors will 
+benefit 
+from 
+selling solutions into 
+both 
+healthcare providers 
+and 
+the 
+existing healthcare 
+IT vendors that are looking to 
+bolster their solution sets via outsourced R&D. 
+
+
+On the 
+healthcare-data owners side, we view the most likely 
+winners as the existing 
+EHR players and, potentially, large 
+cloud-computing entrants from the technology 
+side. We believe the data 
+stores created by the EHR players are not only the 
+most 
+comprehensive but that they will be difficult to replicate 
+given 
+their creation via 
+government intervention. 
+Regarding 
+the large cloud-computing entrants, we have 
+seen a greater push by these 
+players 
+to enter the healthcare vertical, creating 
+large 
+de-siloed stores of data. 
+These players will be the 
+best positioned to create saleable 
+solutions from their data stores as well as 
+in selling 
+de-identified 
+data 
+to 
+solutions 
+vendors 
+in need 
+of a robust data set. 
+
+
+Losers: 
+Less Impact, Pressure on Manual Processes 
+
+
+As big data applications, and even healthcare IT itself, are both newly created 
+fields, displacement risks 
+from this trend 
+are more narrow. Near term, big-data, 
+machine-learning, 
+and artificial intelligence 
+solutions 
+could 
+create downward 
+pressure 
+on pockets of employment 
+in the 
+medical field, such as radiology and 
+claims processing analysts. 
+
+However, given the 
+intersection of increasing 
+life expectancy and the declining 
+supply of doctors, we believe these solutions are 
+more likely 
+to supplement than 
+displace clinicians. We view these tools as a way to improve 
+clinician 
+productivity, 
+especially in the 
+early days of predictive analytics: 
+Big data 
+solutions will be viewed 
+as decision support, if not the 
+ultimate decision 
+maker. 
+
+
+© 2018 
+Citigroup 
+
+
+
+August 2018 Citi GPS: Global Perspectives & Solutions Citi GPS: Global Perspectives & Solutions 
+
+37
+Dalibor Vavruska 
+
+Global Head of Digital Connectivity Strategy 
+and Head of CEEMEA Telecom Research 
+
+Technologies may eventually reduce the 
+need for exclusive spectrum licensing 
+
+There are both private and shared assets in 
+market economies 
+
+As part of creating the design-made wireless 
+industry some spectrum was transferred 
+from a shared public asset into exclusive 
+ownership by wireless companies … 
