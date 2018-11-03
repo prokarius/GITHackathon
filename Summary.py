@@ -177,6 +177,22 @@ def removeSentencesWithPrefix(text):
     return result
 
 
+def removeFigures(text):
+    result = []
+    insideFigure = False
+    for sentence in text:
+        sen = sentence.strip().lower()
+        if not insideFigure and sen.startswith('figure'):
+            insideFigure = True
+            continue
+        elif insideFigure and sen.startswith('source'):
+            insideFigure = False
+            continue
+        elif not insideFigure:
+            result.append(sentence)
+    return result
+
+
 def main():
     file = open(fileName, "r", encoding="ISO-8859-1")
     text = file.readlines()
@@ -205,6 +221,9 @@ def main():
     # remove sentences that appear multiple times
     # Because usually they are headers/footers
     text = removeMultipleSentences(text)
+
+    # remove figures
+    text = removeFigures(text)
 
     # remove sentences with prefixes
     text = removeSentencesWithPrefix(text)
