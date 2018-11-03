@@ -159,11 +159,15 @@ def removeMultipleSentences(text):
     dictionary = {}
 
     for sentence in text:
-        dictionary[sentence] = dictionary.get(sentence, 0) + 1
+        if not sentence: continue
+        sen = sentence.lower().strip()
+        dictionary[sen] = dictionary.get(sen, 0) + 1
 
     result = []
     for sentence in text:
-        if dictionary[sentence] < sentenceMutipleThreshold:
+        if not sentence: continue
+        sen = sentence.lower().strip()
+        if dictionary[sen] < sentenceMutipleThreshold:
             result.append(sentence)
 
     return result
