@@ -35,7 +35,6 @@ moneypattern = re.compile("\$[0-9]+\.?[0-9]*|[0-9]+\.?[0-9]*[%]")
 yearpattern = re.compile("[0-9]{4}")
 splitpattern = '[.](?!(\w|\d))|[?!]'
 
-
 def freq(lst):
     dictionary = {}
 
@@ -137,7 +136,7 @@ def process(text, lenOutput):
         # Some inputs will have double spaces...?
         toappend = text[sentencenum].replace("  ", " ")
 
-        length = len(toappend) + 1
+        length = len(toappend) + 2
 
         # If we don't have space to append, don't bother appending
         if (size + length >= lenOutput):
@@ -148,7 +147,7 @@ def process(text, lenOutput):
         index += 1
 
     out.sort()
-    text = ".".join([x[1] for x in out])[1:] + "."
+    text = ". ".join([x[1].strip() for x in out]) + "."
 
     return text
 
@@ -173,7 +172,7 @@ def main():
     file.close()
 
     # Most of the lines have trailing and ending white spaces
-    text = [x.rstrip().lstrip() if x else "" for x in text]
+    text = [x.strip() if x else "" for x in text]
 
     # Adding a couple of fullstops to the end of headers
     # So the headers are usually in a line of their own, seperated be the next with
