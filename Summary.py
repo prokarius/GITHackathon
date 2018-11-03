@@ -25,7 +25,10 @@ stopwords = [
 alnumpattern = re.compile("[A-Z0-9a-z., '!?$%:-]")
 moneypattern = re.compile("\$[0-9]+\.?[0-9]*|[0-9]+\.?[0-9]*[%]")
 yearpattern = re.compile("[0-9]{4}")
-splitpattern = '[.:?!]'
+splitpattern = '[.?!]'
+
+# How many times exact instance of a sentence must appear to be removed
+sentenceMutipleThreshold = 3
 
 
 def freq(lst):
@@ -141,6 +144,20 @@ def process(text, lenOutput):
     return text
 
 
+def removeMultipleSentences(text):
+    dictionary = {}
+
+    for sentence in text:
+        dictionary[sentence] = dictionary.get(sentence, 0) + 1
+
+    result = []
+    for sentence in text:
+        if dictionary[sentence] < sentenceMutipleThreshold:
+            result.append(sentence)
+
+    return result
+
+
 def main():
     file = open(fileName, "r", encoding="ISO-8859-1")
     text = file.readlines()
@@ -165,6 +182,11 @@ def main():
         "".join([x if alnumpattern.match(x) else " " for x in y]) for y in text
     ])
     text = re.split(splitpattern, text)
+
+    # remove sentences that appear multiple times
+    # Because usually they are headers/footers
+    text = removeMultipleSentences(text)
+
     # return "-\n".join(text)
 
     return process(text, numChars)
