@@ -30,10 +30,13 @@ stopwords = [
     "citi", "gps", "group", "figure"
 ]
 
+sentenceprefixtoremove = ('figure')
+
 alnumpattern = re.compile("[A-Z0-9a-z., '!?$%:-]")
 moneypattern = re.compile("\$[0-9]+\.?[0-9]*|[0-9]+\.?[0-9]*[%]")
 yearpattern = re.compile("[0-9]{4}")
 splitpattern = '[.](?!(\w|\d))|[?!]'
+
 
 def freq(lst):
     dictionary = {}
@@ -166,6 +169,14 @@ def removeMultipleSentences(text):
     return result
 
 
+def removeSentencesWithPrefix(text):
+    result = []
+    for sentence in text:
+        if not sentence.startswith(sentenceprefixtoremove):
+            result.append(sentence)
+    return result
+
+
 def main():
     file = open(fileName, "r", encoding="ISO-8859-1")
     text = file.readlines()
@@ -194,6 +205,9 @@ def main():
     # remove sentences that appear multiple times
     # Because usually they are headers/footers
     text = removeMultipleSentences(text)
+
+    # remove sentences with prefixes
+    text = removeSentencesWithPrefix(text)
 
     # return "\n--------------------------------\n".join(text)
 
