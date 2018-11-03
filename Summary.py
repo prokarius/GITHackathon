@@ -25,7 +25,7 @@ stopwords = [
 alnumpattern = re.compile("[A-Z0-9a-z., '!?$%:-]")
 moneypattern = re.compile("\$[0-9]+\.?[0-9]*|[0-9]+\.?[0-9]*[%]")
 yearpattern = re.compile("[0-9]{4}")
-splitpattern = '[.?!]'
+splitpattern = '(?<!\d)[.](?!\d)|[?!]'
 
 # How many times exact instance of a sentence must appear to be removed
 sentenceMutipleThreshold = 3
