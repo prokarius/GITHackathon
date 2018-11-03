@@ -3,8 +3,8 @@ import re
 ####### MAGIC NUMBERS ########
 numChars = 500
 lengthWeight = 0.45837485736
-freqWeights = 0.90918723647
-fileName = "actual/actual2.txt"
+freqWeights = 0.80918723647
+fileName = "actual/actual3.txt"
 
 # How many times exact instance of a sentence must appear to be removed
 sentenceMutipleThreshold = 3
@@ -36,6 +36,8 @@ alnumpattern = re.compile("[A-Z0-9a-z., '!?$%:-]")
 moneypattern = re.compile("\$[0-9]+\.?[0-9]*|[0-9]+\.?[0-9]*[%]")
 yearpattern = re.compile("[0-9]{4}")
 splitpattern = '[.](?!(\w|\d))|[?!]'
+
+bannedwords = ['Citi GPS: Global Perspectives']
 
 
 def freq(lst):
@@ -201,6 +203,18 @@ def removeFigures(text):
     return result
 
 
+def removeBannedSentences(text):
+    result = []
+    for sentence in text:
+        found = False
+        for word in bannedwords:
+            if word in sentence:
+                found = True
+                break
+        if not found: result.append(sentence)
+    return result
+
+
 def main():
     file = open(fileName, "r", encoding="ISO-8859-1")
     text = file.readlines()
@@ -235,6 +249,9 @@ def main():
 
     # remove sentences with prefixes
     text = removeSentencesWithPrefix(text)
+
+    # remove sentences containing banned words
+    text = removeBannedSentences(text)
 
     # return "\n--------------------------------\n".join(text)
 

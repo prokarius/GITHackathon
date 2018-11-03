@@ -4,7 +4,7 @@ import re
 numChars = 500
 lengthWeight = 0.45837485736
 freqWeights = 0.90918723647
-fileName = "actual/actual2.txt"
+fileName = "actual/actual3.txt"
 
 # How many times exact instance of a sentence must appear to be removed
 sentenceMutipleThreshold = 3
@@ -206,6 +206,18 @@ def removeNone(text):
     for sentence in text:
         if sentence:
             result.append(sentence)
+    return result
+
+
+def removeBannedSentences(text):
+    result = []
+    for sentence in text:
+        found = False
+        for word in bannedwords:
+            if word in sentence:
+                found = True
+                break
+        if not found: result.append(sentence)
     return result
 
 
