@@ -33,8 +33,7 @@ stopwords = [
 alnumpattern = re.compile("[A-Z0-9a-z., '!?$%:-]")
 moneypattern = re.compile("\$[0-9]+\.?[0-9]*|[0-9]+\.?[0-9]*[%]")
 yearpattern = re.compile("[0-9]{4}")
-splitpattern = '(?<!\d)[.](?!\d)|[?!]'
-
+splitpattern = '[.](?!(\w|\d))|[?!]'
 
 
 def freq(lst):
@@ -197,7 +196,7 @@ def main():
     # Because usually they are headers/footers
     text = removeMultipleSentences(text)
 
-    # return "-\n".join(text)
+    # return "\n--------------------------------\n".join(text)
 
     return process(text, numChars)
 
