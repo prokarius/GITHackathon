@@ -30,7 +30,7 @@ stopwords = [
     "citi", "gps", "group", "figure"
 ]
 
-sentenceprefixtoremove = ('figure')
+sentenceprefixtoremove = ('figure', 'chapter')
 
 alnumpattern = re.compile("[A-Z0-9a-z., '!?$%:-]")
 moneypattern = re.compile("\$[0-9]+\.?[0-9]*|[0-9]+\.?[0-9]*[%]")
