@@ -172,7 +172,7 @@ def removeMultipleSentences(text):
 def removeSentencesWithPrefix(text):
     result = []
     for sentence in text:
-        if not sentence.startswith(sentenceprefixtoremove):
+        if not sentence.lower().startswith(sentenceprefixtoremove):
             result.append(sentence)
     return result
 
