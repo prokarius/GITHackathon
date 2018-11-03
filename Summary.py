@@ -4,7 +4,7 @@ import re
 numChars = 500
 lengthWeight = 0.45837485736
 freqWeights = 0.90918723647
-fileName = "actual/actual2.txt"
+fileName = "actual/actual3.txt"
 
 # How many times exact instance of a sentence must appear to be removed
 sentenceMutipleThreshold = 3
@@ -150,7 +150,7 @@ def process(text, lenOutput):
         index += 1
 
     out.sort()
-    text = ". ".join([x[1].strip() for x in out]) + "."
+    text = ". ".join([x[1].strip().capitalize() for x in out]) + "."
 
     return text
 
