@@ -197,6 +197,14 @@ def removeFigures(text):
     return result
 
 
+def removeNone(text):
+    result = []
+    for sentence in text:
+        if sentence:
+            result.append(sentence)
+    return result
+
+
 def main():
     file = open(fileName, "r", encoding="ISO-8859-1")
     text = file.readlines()
@@ -222,15 +230,17 @@ def main():
     ])
     text = re.split(splitpattern, text)
 
+    text = removeNone(text)
+
     # remove sentences that appear multiple times
     # Because usually they are headers/footers
-    text = removeMultipleSentences(text)
+    # text = removeMultipleSentences(text)
 
     # remove figures
-    text = removeFigures(text)
+    # text = removeFigures(text)
 
     # remove sentences with prefixes
-    text = removeSentencesWithPrefix(text)
+    # text = removeSentencesWithPrefix(text)
 
     # return "\n--------------------------------\n".join(text)
 
