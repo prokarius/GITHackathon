@@ -6,12 +6,27 @@ lengthWeight = 0.45837485736
 freqWeights = 0.90918723647
 fileName = "file4.txt"
 
-stopwords = ['myself', 'our', 'ours', 'ourselves', 'you', 'your', 'yours', 'yourself', 'yourselves', 'him', 'his', 'himself', 'she', 'her', 'hers', 'herself', 'its', 'itself', 'they', 'them', 'their', 'theirs', 'themselves', 'what', 'which', 'who', 'whom', 'this', 'that', 'these', 'those', 'are', 'was', 'were', 'been', 'being', 'have', 'has', 'had', 'having', 'does', 'did', 'doing', 'the', 'and', 'but', 'because', 'until', 'while', 'for', 'with', 'about', 'against', 'between', 'into', 'through', 'during', 'before', 'after', 'above', 'below', 'from', 'down', 'out', 'off', 'over', 'under', 'again', 'further', 'then', 'once', 'here', 'there', 'when', 'where', 'why', 'how', 'all', 'any', 'both', 'each', 'few', 'more', 'most', 'other', 'some', 'such', 'nor', 'not', 'only', 'own', 'same', 'than', 'too', 'very', 'can', 'will', 'just', 'don', 'should', 'now', "citigroup", "2018", "2017", "citi", "gps", "group", "figure"]
+stopwords = [
+    'myself', 'our', 'ours', 'ourselves', 'you', 'your', 'yours', 'yourself',
+    'yourselves', 'him', 'his', 'himself', 'she', 'her', 'hers', 'herself',
+    'its', 'itself', 'they', 'them', 'their', 'theirs', 'themselves', 'what',
+    'which', 'who', 'whom', 'this', 'that', 'these', 'those', 'are', 'was',
+    'were', 'been', 'being', 'have', 'has', 'had', 'having', 'does', 'did',
+    'doing', 'the', 'and', 'but', 'because', 'until', 'while', 'for', 'with',
+    'about', 'against', 'between', 'into', 'through', 'during', 'before',
+    'after', 'above', 'below', 'from', 'down', 'out', 'off', 'over', 'under',
+    'again', 'further', 'then', 'once', 'here', 'there', 'when', 'where',
+    'why', 'how', 'all', 'any', 'both', 'each', 'few', 'more', 'most', 'other',
+    'some', 'such', 'nor', 'not', 'only', 'own', 'same', 'than', 'too', 'very',
+    'can', 'will', 'just', 'don', 'should', 'now', "citigroup", "2018", "2017",
+    "citi", "gps", "group", "figure"
+]
 
 alnumpattern = re.compile("[A-Z0-9a-z., '!?$%:-]")
 moneypattern = re.compile("\$[0-9]+\.?[0-9]*|[0-9]+\.?[0-9]*[%]")
 yearpattern = re.compile("[0-9]{4}")
 splitpattern = '[.:?!]'
+
 
 def freq(lst):
     dictionary = {}
@@ -45,6 +60,7 @@ def freq(lst):
                 dictionary[word] = 1
     return dictionary
 
+
 # Implements a modified version of TF-IDF
 def process(text, lenOutput):
     # Create the frequency map of the text
@@ -55,9 +71,9 @@ def process(text, lenOutput):
     # Then if it's some year, we don't really care about it so much
     for key in frequency:
         if re.match(moneypattern, key):
-            frequency[key] = frequency[key]*2
+            frequency[key] = frequency[key] * 2
         elif re.match(yearpattern, key):
-            frequency[key] = frequency[key]*0.5
+            frequency[key] = frequency[key] * 0.5
 
         # Then at the end, scale the frequencies by some factor
         frequency[key] = frequency[key]**freqWeights
@@ -87,7 +103,7 @@ def process(text, lenOutput):
 
         # We weight it by the length of the sentence as well.
         # This is modification #3.
-        cost.append((pain/(wordcount**lengthWeight), index2))
+        cost.append((pain / (wordcount**lengthWeight), index2))
 
     # Find the sentences with the highest cost (weights)
     cost.sort()
@@ -109,7 +125,7 @@ def process(text, lenOutput):
         # Some inputs will have double spaces...?
         toappend = text[sentencenum].replace("  ", " ")
 
-        length = len(toappend)+1
+        length = len(toappend) + 1
 
         # If we don't have space to append, don't bother appending
         if (size + length >= lenOutput):
@@ -122,8 +138,11 @@ def process(text, lenOutput):
     out.sort()
     text = ".".join([x[1] for x in out])[1:] + "."
 
+    return text
+
+
 def main():
-    file = open (fileName, "r", encoding="ISO-8859-1")
+    file = open(fileName, "r", encoding="ISO-8859-1")
     text = file.readlines()
     file.close()
 
@@ -135,17 +154,21 @@ def main():
     # an extra newline character below.
     for i in range(1, len(text)):
         if text[i] == "":
-            text[i-1] = text[i-1]+"."
+            text[i - 1] = text[i - 1] + "."
 
     # text is a list of sentences
     # filters and keeps alnum and these specific symbols:
     # ., '!?$%:-
     # But for some reason, ' and " are represented differently. No idea if that is so
     # for the final presentation.
-    text = " ".join(["".join([x if alnumpattern.match(x) else " " for x in y]) for y in text])
+    text = " ".join([
+        "".join([x if alnumpattern.match(x) else " " for x in y]) for y in text
+    ])
     text = re.split(splitpattern, text)
+    # return "-\n".join(text)
 
     return process(text, numChars)
+
 
 if __name__ == "__main__":
     print(main())
