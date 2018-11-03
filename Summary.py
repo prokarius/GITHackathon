@@ -4,7 +4,15 @@ import re
 numChars = 500
 lengthWeight = 0.45837485736
 freqWeights = 0.90918723647
-fileName = "file4.txt"
+fileName = "actual/actual2.txt"
+
+# How many times exact instance of a sentence must appear to be removed
+sentenceMutipleThreshold = 3
+shortSentenceTreshold = 5
+longSentenceTreshold = 20
+sentencePenalty = 6.1092546728
+
+########### END MAGIC #############
 
 stopwords = [
     'myself', 'our', 'ours', 'ourselves', 'you', 'your', 'yours', 'yourself',
@@ -27,8 +35,6 @@ moneypattern = re.compile("\$[0-9]+\.?[0-9]*|[0-9]+\.?[0-9]*[%]")
 yearpattern = re.compile("[0-9]{4}")
 splitpattern = '(?<!\d)[.](?!\d)|[?!]'
 
-# How many times exact instance of a sentence must appear to be removed
-sentenceMutipleThreshold = 3
 
 
 def freq(lst):
@@ -103,6 +109,10 @@ def process(text, lenOutput):
         # Now, sometimes, we have empty string. We just ignore it here.
         if wordcount == 0:
             continue
+        elif wordcount >= longSentenceTreshold:
+            wordcount *= sentencePenalty
+        elif wordcount <= shortSentenceTreshold:
+            wordcount *= (sentencePenalty * sentencePenalty)
 
         # We weight it by the length of the sentence as well.
         # This is modification #3.
